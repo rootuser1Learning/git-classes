@@ -1,3 +1,2 @@
 hi 
 this is git day1
-how are you
