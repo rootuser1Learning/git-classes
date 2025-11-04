@@ -1,2 +1,2 @@
 hi 
-this is git day 3
+this is git day 2
